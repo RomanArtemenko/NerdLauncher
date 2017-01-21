@@ -1,4 +1,4 @@
-package com.batman.android.nerdlauncher.;
+package com.batman.android.nerdlauncher;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
